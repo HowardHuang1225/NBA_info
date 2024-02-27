@@ -1,0 +1,7 @@
+userID: U3de2e6e5c37b4b02713a017ee9104086
+
+Bot basic ID: @585zpiew
+
+channel token: qLqJwcq/hvCwu8u32stf0dmgQTr51T+DV/d4BN8FhXyjjiJTrMrRtQj0UydgunkMJDhuePzMGtFol+RRY1qsl2VfVKJlsOY8a94vlTzJDP6+NNuVcvyeK1Yfh29bAfNDnvAA1gITB3yRz2p7o2iAwgdB04t89/1O/w1cDnyilFU=
+
+channel secret: 762daef8f50d0a923fb77d3669a0cad9
